@@ -1,0 +1,35 @@
+/* p{
+    font-size: 50px;
+    color: red;
+    background-color: green;
+} */
+
+.myStyle{
+    font-size: 50px;
+    color: red;
+    background-color: green;
+}
+
+/* p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
+} */
+
+.test{
+    color: rgb(77, 193, 141);
+    color: rgb(29, 184, 132);
+    /* background-color: red; */
+    /* background-color: rgb(208, 13, 32); */
+    font-size: 100px;
+    /* font-size: 10%; */
+    font-weight: bold;
+    /* border: blue solid 20px; */
+    /* text-decoration: dashed red 5px; */
+    text-decoration: underline red;
+    text-transform: lowercase;
+    text-transform: uppercase;
+    text-shadow: black 15px 5px;
+    line-height: 30px;
+    letter-spacing: 30px;
+    word-spacing: 50px;
+}
